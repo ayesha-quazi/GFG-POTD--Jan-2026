@@ -6,3 +6,5 @@ Here I'm going to practice and maintain solutions of GFG POTD throughout Jan 202
 ### Day 03: Flattening a Linked List
 ### Day 04: Sort 0s, 1s and 2s
 ### Day 05: Max Sum Subarray of size K
+### Day 06: 
+### Day 07: Count distinct elements in every window 
